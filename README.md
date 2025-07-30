@@ -11,7 +11,7 @@
 
 **CI/CD Automation using Terraform**  
 Automated the deployment pipeline with Terraform, making DevOps smoother than ever!  
-*Check it out:* [Project Link](#)
+*Check it out:* [Project Link](https://github.com/DPEDITS/CICD-USING-TERRAFORM-GO.git)
 
 ---
 
